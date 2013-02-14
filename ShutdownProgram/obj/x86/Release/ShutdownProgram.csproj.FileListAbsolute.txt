@@ -1,0 +1,9 @@
+H:\VS_Projekti\ShutdownProgram\ShutdownProgram\bin\Release\ShutdownProgram.exe
+H:\VS_Projekti\ShutdownProgram\ShutdownProgram\bin\Release\ShutdownProgram.pdb
+H:\VS_Projekti\ShutdownProgram\ShutdownProgram\obj\x86\Release\ResolveAssemblyReference.cache
+H:\VS_Projekti\ShutdownProgram\ShutdownProgram\obj\x86\Release\ShutdownProgram.ShutdownApp.resources
+H:\VS_Projekti\ShutdownProgram\ShutdownProgram\obj\x86\Release\ShutdownProgram.Properties.Resources.resources
+H:\VS_Projekti\ShutdownProgram\ShutdownProgram\obj\x86\Release\GenerateResource.read.1.tlog
+H:\VS_Projekti\ShutdownProgram\ShutdownProgram\obj\x86\Release\GenerateResource.write.1.tlog
+H:\VS_Projekti\ShutdownProgram\ShutdownProgram\obj\x86\Release\ShutdownProgram.exe
+H:\VS_Projekti\ShutdownProgram\ShutdownProgram\obj\x86\Release\ShutdownProgram.pdb
